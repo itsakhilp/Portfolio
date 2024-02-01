@@ -5,9 +5,8 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   base: "/portfolio/",
   plugins: [react()],
-  css: {
-    modules : {
-      localConvetion : "camelCase",
-    }
+  optimizeDeps: { 
+    // Specify MIME type for JSX files
+    include: ['**/*.jsx']
   }
 })
