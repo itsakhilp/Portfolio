@@ -1,0 +1,11 @@
+[
+    {
+      "role": "Associate Software Engineer",
+      "organisation": "Test Yantra Software Solutions",
+      "startDate": "Sept 2021 - March 2023",
+      "endDate": "",
+      "experiences": ["Actively contributed to the development of responsive web applications using React.js, enhancing user experience and interface interactivity.", "Developed and maintained frontend components using React.js for a dynamic e-commerce platform","Implemented reusable React components, reducing redundancy in codebase by 30%.","Collaborated with the design team to ensure UI/UX consistency and responsiveness across devices"],
+      "imageSrc": "history/ty.jpg"
+    }
+    
+  ]
