@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import { getImageUrl } from '../../utils';
 import styles from './About.module.css'
 
@@ -24,7 +24,7 @@ const About = () => {
         <h2 className={styles.title}>About</h2>
        <div className={styles.content}>
        <img src={getImageUrl("about/aaa.png")} alt="About img" className={styles.aboutImg}/>
-       <img src={getImageUrl("about/")} alt="About img" className={styles.aboutImg}/>
+       {/* <img src={getImageUrl("about/")} alt="About img" className={styles.aboutImg}/> */}
 
         <ul className={styles.aboutItems}>
             <li className={styles.aboutItem}>

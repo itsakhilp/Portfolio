@@ -1,8 +1,6 @@
-
-
+import React, { useState, useEffect } from 'react';
 import styles from "./Hero.module.css"
 import { getImageUrl } from '../../utils'
-import React, { useState, useEffect } from 'react';
 import styled, { keyframes } from 'styled-components';
 
 
